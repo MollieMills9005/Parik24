@@ -29,7 +29,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="[https://topmatch-ua1.com/](https://24-parik.live/?utm_term=parik24ua_net&utm_source=google)" target="_blank">parik24-ua.net</a></td>
+        <td><a href="https://24-parik.live/?utm_term=parik24ua_net&utm_source=google">parik24-ua.net</a></td>
       </tr>
       <tr>
         <td><a href="[https://topmatch-ua.com/](https://24-parik.live/?utm_term=parik24ua_net&utm_source=google)" target="_blank">parik24-pl.com</a></td>
