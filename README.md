@@ -29,10 +29,10 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="parik24-ua.net">parik24-ua.net</a></td>
+        <td><a href="https://parik24-ua.net">parik24-ua.net</a></td>
       </tr>
       <tr>
-        <td><a href="parik24-pl.com">parik24-pl.com</a></td>
+        <td><a href="https://parik24-pl.com">parik24-pl.com</a></td>
       </tr> 
   </tbody>
   </table>
