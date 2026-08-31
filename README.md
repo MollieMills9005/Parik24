@@ -34,6 +34,9 @@
       <tr>
         <td><a href="https://parik24-pl.com">parik24-pl.com</a></td>
       </tr> 
+      <tr>
+        <td><a href="https://parik-24.io/">parik-24.io</a></td>
+      </tr>
   </tbody>
   </table>
 </div>
